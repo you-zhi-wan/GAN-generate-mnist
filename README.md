@@ -1,1 +1,1 @@
-# ML-DL-course
+# GAN-course
